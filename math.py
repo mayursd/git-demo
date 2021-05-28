@@ -17,3 +17,6 @@ def divide(x,y):
 #Square Fn
 def square(x):
     returnx*x
+
+def cube(x):
+    return x*x*x
